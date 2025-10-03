@@ -40,8 +40,8 @@ START_PIC = os.environ.get("START_PIC", "https://files.catbox.moe/zt7p3p.jpg")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://files.catbox.moe/3ejlj0.jpg")
 
 #--------------------------------------------
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "linkshortify.com")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "URL.CINEZONE.LIVE")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "3f87af643e03ebddb5e152f8daa662d56cecc723")
 TUT_VID = os.environ.get("TUT_VID","https://t.me/hwdownload/3")
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
 
