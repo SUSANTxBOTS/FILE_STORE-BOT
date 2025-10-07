@@ -37,19 +37,6 @@
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
       "value": "-1002498722116"
     },
-    "FORCE_SUB_CHANNEL":{
-      "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
-    },
-    "FORCE_SUB_CHANNEL2":{
-      "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
-    },
-    "ADMINS": {
-      "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "",
-      "required": false
-    },
     "PROTECT_CONTENT": {
       "description": "Protect contents from getting forwarded",
       "value": "False",
